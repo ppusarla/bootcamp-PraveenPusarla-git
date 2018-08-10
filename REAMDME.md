@@ -1,1 +1,1 @@
-phData bootcamp training git ans shell scripting
+phData bootcamp training git and shell scripting
